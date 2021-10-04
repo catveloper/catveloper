@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=IM%20DONGUK&fontAlign=70&fontAlignY=40&color=gradient)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:duim91@gmail.com) 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-9c38d1?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/nana_d.uk) 
-[![Tistory Badge](https://img.shields.io/badge/Tistory-E94F20?style=flat-square&logo=Tumblr&logoColor=white)](https://haesoo9410.tistory.com/)
-[![Velog Blog Badge](https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white)](https://velog.io/@catveloper) 
+<p align='right'>
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:duim91@gmail.com) 
+  [![Instagram Badge](https://img.shields.io/badge/Instagram-9c38d1?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/nana_d.uk) 
+  [![Tistory Badge](https://img.shields.io/badge/Tistory-E94F20?style=flat-square&logo=Tumblr&logoColor=white)](https://haesoo9410.tistory.com/)
+  [![Velog Blog Badge](https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white)](https://velog.io/@catveloper) 
+</p>
 
 <p align="center">🇰🇷 korean</p>
 
