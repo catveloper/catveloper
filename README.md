@@ -41,6 +41,6 @@
 <h3 align="center">📊 Statistics</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=catveloper&show_icons=true&bg_color=red,blue,pupple">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=isgood1029">
+<!--   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=isgood1029"> -->
 </p>
 
