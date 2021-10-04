@@ -1,7 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=IM%20DONGUK&fontAlign=70&fontAlignY=40&color=gradient)
 
-
-<p align="center">👨‍💻 배우고 , 고민하고, 나누고 개발하는 것이 즐거운 3년차 개발자입니다. </p>
+<h3 align="center">👨‍💻 Who am I?</h3>
+<p align="center">
+  언어에 상관없이 배우고 고민하고 나누고 개발하는 것이 즐거운 3년차 개발자입니다.<br>
+  빠른구현보다 <span style='font-weight: 700;'>Clean Code, Clean Archeitecture, OOP, 디자인패턴</span>에 관심이 많습니다! 
+</p>
 
 <h3 align="center">💪 Skills</h3>
 
