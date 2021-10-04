@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Im%20DongUk&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=IM%20DONGUK&fontAlign=80&fontAlignY=40&color=gradient)
 
 
 <!--
